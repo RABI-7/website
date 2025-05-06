@@ -257,6 +257,10 @@ Publish the website in the given URL.
 ```
 # OUTPUT:
 
+![Screenshot (89)](https://github.com/user-attachments/assets/cdddc5bf-8f42-404e-86dd-b25b7fbcf860)
+![Screenshot (90)](https://github.com/user-attachments/assets/4f194906-ed1c-4d3a-9536-b9079673c252)
+![Screenshot (91)](https://github.com/user-attachments/assets/1864e31f-4edf-4f62-90b6-838a345f14c9)
+![Screenshot (92)](https://github.com/user-attachments/assets/0458490d-13f3-42e6-accc-c8131511b64c)
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
